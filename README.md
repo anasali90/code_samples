@@ -10,5 +10,7 @@ sample codes for simulation I am using in my current work (you can run it)
 U-net model to segment ground plane based on this paper : 
 https://www.ri.cmu.edu/pub_files/2016/5/icra_2016.pdf
 (you can test it)
+weights: 
+https://drive.google.com/open?id=1dMXHFTlIMbjzxGqZP34lSN19R7KlpHhX
 
 ## end
