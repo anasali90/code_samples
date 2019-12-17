@@ -2,6 +2,8 @@
 - This repository cnotains conde smaples from different projects I worked on. (some of them you can run directly)
 ## FPNN
 This is a re-implemntaion of siame convolutional  model for person re-identification based on this paper : https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf
+## weld seam segmentaion
+weld seam segmentaion in Xray images using UNET trained from scatch (you can train it and test it ) 
 ## welds 
 I reimplemented a simple model from my master thesis in 2012 to detect weld seam in Xray images using PyTorch. (you can run it )
 ## camera_calibration_for_complex_scenes
